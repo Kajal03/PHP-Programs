@@ -15,7 +15,7 @@ for($x=0;$x<count($arr);$x++)
  echo $arr[$x]." "; 
 }
 
-$ar=array(1,5,2,3,9,13,0);
+$ar=array(1,5,2,3,9,13,0,123,52,4);
 sortArray($ar);
 
 ?>
