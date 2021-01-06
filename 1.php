@@ -10,7 +10,7 @@ if($a>=$b){
 }
 else{
   if($b>=$c){ echo $b; }
-  else { echo $c; }
+  else { echo $c;   }
 }
 
 ?>
